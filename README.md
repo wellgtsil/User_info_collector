@@ -4,7 +4,7 @@ User_info_collector_linux   Author: Wellington Silva
 
 
 About:
-  This script is for collecting overall user information in a linux system.
+  This script is for collecting auditing user information in a linux system.
 
 
 TODO:
