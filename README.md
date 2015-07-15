@@ -1,6 +1,6 @@
 
 
-User_info_collector_linux   Author: Wellington Silva
+Name: User_info_collector_linux   Author: Wellington Silva
 
 
 About:
