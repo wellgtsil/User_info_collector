@@ -9,4 +9,4 @@ About:
 
 TODO:
   - Find other logics to get blocked user information
-  - Add support for Debian based systems
+  - Made to work in a Red Hat Environment, make it work in another Linuxes
