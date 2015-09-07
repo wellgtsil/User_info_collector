@@ -8,5 +8,5 @@ About:
 
 
 TODO:
-  - Find other logics to get blocked user information
+  - Research alternatives to get user faillog information across different Linux Distributions
   - Made to work in a Red Hat Environment, test compatibility with other Linuxes
